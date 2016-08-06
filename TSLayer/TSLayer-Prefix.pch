@@ -1,0 +1,19 @@
+//
+//  TSLayer-Prefix.pch
+//  TSLayer
+//
+//  Created by tunsuy on 22/6/16.
+//  Copyright © 2016年 tunsuy. All rights reserved.
+//
+
+#ifndef TSLayer_Prefix_pch
+#define TSLayer_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "MacroDefined.h"
+
+#import <CoreText/CoreText.h>
+
+#endif /* TSLayer_Prefix_pch */

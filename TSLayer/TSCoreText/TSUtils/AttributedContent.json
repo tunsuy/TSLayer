@@ -1,0 +1,37 @@
+
+[
+ {"name" : "IMG1.jpg",
+ "width" : 120,
+ "height" : 100,
+ "type" : "img"
+ },
+ { "color" : "blue",
+ "content" : " 蓝色颜色的文本内容呵呵呵呵 ",
+ "size" : 16,
+ "type" : "txt"
+ },
+ {"content" : "链接",
+ "url" : "https://github.com/xiangwangfeng/M80AttributedLabel/tree/master/M80AttributedLabel/Classes/M80AttributedLabel",
+ "color" : "blue",
+ "type" : "link"
+ },
+ { "color" : "red",
+ "content" : " 红色颜色的文本内容红红火火 ",
+ "size" : 22,
+ "type" : "txt"
+ },
+ { "color" : "black",
+ "content" : " 黑色颜色的文本内容嘿嘿嘿。\n",
+ "size" : 16,
+ "type" : "txt"
+ },
+ {"name" : "IMG3.jpg",
+ "width" : 200,
+ "height" : 100,
+ "type" : "img"
+ },
+ { "color" : "default",
+ "content" : " 默认颜色的文本内容哈哈哈哈。",
+ "type" : "txt"
+ }
+ ]
